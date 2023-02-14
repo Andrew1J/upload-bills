@@ -5,11 +5,11 @@ Simple Medical Bill Upload Service using Node and Express
 ## Getting Started
 * Clone the Repository
 ```
-git clone https://github.com/Andrew1J/upload-bills.git
+git clone git@github.com:Andrew1J/upload-bills.git
 ```
 * Change Directories
 ```
-cd upload-bills
+cd upload-bills/app/
 ```
 * Install Dependencies
 ```
@@ -20,3 +20,8 @@ npm install package-lock.json
 node index.js
 ```
 
+## API Testing
+* Within the app Directory, run the following command
+```
+mocha test/apitests.js
+```
