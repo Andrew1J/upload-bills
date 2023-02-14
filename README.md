@@ -1,6 +1,6 @@
 # file-upload
 
-Simple Medical Bill Upload Service using Node and Express
+Simple Medical Bill Upload Service using Node and Express with API Tests
 
 ## Getting Started
 * Clone the Repository
