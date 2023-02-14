@@ -21,7 +21,7 @@ node index.js
 ```
 
 ## API Testing
-* Within the app Directory, run the following command
+* Within the app Directory, run the following command (make sure to install the dependences!)
 ```
 mocha test/apitests.js
 ```
